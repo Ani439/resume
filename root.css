@@ -1,0 +1,16 @@
+:root{
+    --headerColor:#FCFCFC;
+    --generalColor:#d3d1d1;
+    --colorWhite:#fff;
+    --colorBlue:#2530C9;
+    --colorgray:#3E427E;
+    --pink:#F49EA8;
+}
+@font-face {
+    font-family: logo ;
+    src: url(fonts/RobotoMono-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: text;
+    src: url(fonts/Rajdhani-Medium.ttf);
+}
